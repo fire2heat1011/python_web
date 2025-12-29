@@ -1,3 +1,5 @@
+# ai.py 예제이다.
+
 from flask import Blueprint, request, jsonify
 import joblib
 import numpy as np
