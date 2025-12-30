@@ -47,3 +47,5 @@ def predict_iris():
         "label_id": int(prediction),
         "label_name": label_map[prediction]
     }), 200
+
+# 숙제: iris_table 만들어서 posting하면 자동으로 db에 저장하기

@@ -3,3 +3,5 @@
 from .ai import ai_bp
 from .test import test_bp
 from .view import view_bp
+from .user import user_bp
+from .board import board_bp
